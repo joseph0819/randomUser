@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+*{
+  margin : 0;
+  padding: 0;
+  font-family: sans-serif;
+  color: #333;
+  
+  
+}
+.head{
+  margin: 80px auto;
+  align-content: center;
+  justify-content: center;
+  font-size: 50px;
+  display: flex;
+  color: #FF5733;
+
+}
+hr{
+  width: 70%;
+  margin: 100px auto;
+  align-self: center;
+}
+
+.individual-profile{
+  width: 600px;
+  height: 350px;
+  border-color: transparent;
+  margin: 40px auto;
+  padding: 10px 30px;
+  background-color: #fff;
+  border-radius: 30px;
+  display: flex;
+  
+}
+.profile-photo{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  background-color: #FF5733;
+  padding: 6px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  top: 60px;
+}
+.user-info{
+  margin: 20px 0;
+  color: #fff576;
+  font-size: 17px;
+  font-weight: 300;
+  position: relative;
+  top: 100px;
+  left: 50px;
+}
+hr{
+  background-color: blue;
+  
+}
+.individual-profile:hover{
+  box-shadow: 22px 10px 15px -3px rgba(0,0,0,0.1),0px 10px 15px -3px rgba(0,0,0,0.1);
+}
+.fullname{
+  font-size: 18px;
+  font-weight: 700;
+  color: #FF5733;
+}
+.names{
+  margin-bottom: 1000px;
+  padding: 0px;
+  color: #FF5733;
+}
+.btn{
+  margin: 50px auto;
+}

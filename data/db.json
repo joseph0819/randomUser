@@ -1,0 +1,7 @@
+{
+   "blogs" : [
+        {"title": "'Get Started'", "body": "'Like to get started on owning your own place, click here'", "author":"'umunna joseph'", "id":1},
+        {"title": "'The start", "body": "'Like to get started on owning your own place, ckick here'", "author":"'umunna david'", "id":2},
+        {"title": "'Pay now'", "body": "'Like to get started on owning your own place, click here", "author":"'umunna ephraim'" , "id":3}
+    ]
+}

@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "fullName": "Benjamin Franklin ",
+      "address": "No 3. Church Street",
+      "phoneNumber": "08183456743",
+      "email": "benjaminfranklin@gmail.com",
+      "matric_number" : "mouau/sta/18/96675"
+    },
+    {
+      "id": 2,
+      "fullName": "Peter Eze",
+      "address": "4 tall town",
+      "phoneNumber": "07089475864",
+      "email": "petereze@gmail.com",
+      "matric_number" : "mouau/sta/18/118665"
+    },
+    {
+      "id": 3,
+      "fullName": "Mayowa Eunice ",
+      "address": "11 lesly road",
+      "phoneNumber": "08096754231",
+      "email": "mayo3456@gmail.com",
+      "matric_number" : "mouau/sta/18/105475"
+    },
+    {
+      "id": 4,
+      "fullName": "Chidinma Joseph",
+      "address": "333 Abacha Streeet",
+      "phoneNumber": "0802356438",
+      "email": "chichi56@gmail.com",
+      "matric_number" : "mouau/sta/18/98775"
+    },
+    {
+      "id": 5,
+      "fullName": "Raymond Musa",
+      "address": "99 old town",
+      "phoneNumber": "09076895321",
+      "email": "raymondhuge@gmail.com",
+      "matric_number" : "mouau/sta/18/108675"
+    }
+  ]
