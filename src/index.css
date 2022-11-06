@@ -12,6 +12,7 @@
     text-align: center;
     row-gap: 20px;
     margin: 0px auto;
+    background-color: whitesmoke;
    
   }
   .header {
@@ -84,7 +85,7 @@
     text-align: center;
     row-gap: 10px;
     margin: 0px auto;
-    background: linear-gradient(320deg, #eb92be, #ffef78, #63c9b4);
+   background-color: whitesmoke;
   
 }
   .countify{
