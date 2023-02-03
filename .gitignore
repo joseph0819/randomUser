@@ -22,5 +22,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+<<<<<<< HEAD
 # Local Netlify folder
 .netlify
+=======
+.vercel
+>>>>>>> e47ee875ffd376d2bf847aff68c5aeeeba613814

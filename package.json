@@ -13,8 +13,12 @@
     "axios": "^1.1.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
     "react-pro-sidebar": "^1.0.0-beta.2",
     "react-router-dom": "^6.4.2",
+=======
+    "react-router-dom": "^6.4.3",
+>>>>>>> e47ee875ffd376d2bf847aff68c5aeeeba613814
     "react-scripts": "5.0.1",
     "react-select": "^5.7.0",
     "react-toastify": "^9.1.1",

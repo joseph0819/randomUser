@@ -4,16 +4,23 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter } from "react-router-dom";
+<<<<<<< HEAD
 import { ProSidebarProvider } from "react-pro-sidebar";
+=======
+>>>>>>> e47ee875ffd376d2bf847aff68c5aeeeba613814
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <BrowserRouter>
     <React.StrictMode>
       <div>
+<<<<<<< HEAD
         <ProSidebarProvider>
           <App />
         </ProSidebarProvider>
+=======
+        <App />
+>>>>>>> e47ee875ffd376d2bf847aff68c5aeeeba613814
       </div>
     </React.StrictMode>
   </BrowserRouter>
